@@ -10,4 +10,6 @@ def display_board(move)
 end
   
   
-display_board
+
+  
+display_board(board)
