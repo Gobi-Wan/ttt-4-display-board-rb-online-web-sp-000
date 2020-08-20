@@ -2,14 +2,12 @@
 # out the current state.
 
 def display_board(move)
-  puts "   |   |   "
-  puts "-----------"
+  rows = ["   |   |   ", "-----------"]
+  puts 
+  puts 
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
   
-
-
-
 display_board(board)
