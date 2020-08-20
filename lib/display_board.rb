@@ -11,3 +11,6 @@ def display_board(move)
 end
 board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
+
+rows[2] = "   | X |   "
+display_board(board)
