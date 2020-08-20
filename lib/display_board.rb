@@ -7,9 +7,10 @@ def display_board(move)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+  board = [" "," "," "," "," "," "," "," "," "]
 end
   
-board = [" "," "," "," "," "," "," "," "," "]
+
 
 display_board(board)
 
