@@ -9,9 +9,6 @@ def display_board(move)
   puts "   |   |   "
 end
   
-board = [" "," "," "," "," "," "," "," "," "]
-
-display_board(board)
 
 board = [" "," "," "," ","X"," "," "," "," "]
 
