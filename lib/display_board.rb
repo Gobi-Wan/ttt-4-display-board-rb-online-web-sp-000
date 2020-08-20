@@ -10,4 +10,5 @@ def display_board(move)
 end
   
 board = [" "," "," "," "," "," "," "," "," "]
-display_board
+
+display_board(board)
