@@ -12,3 +12,15 @@ end
 board = [" "," "," "," "," "," "," "," "," "]
 
 display_board(board)
+
+def display_board(move)
+  puts "   |   |   "
+  puts "-----------"
+  puts "   | X |   "
+  puts "-----------"
+  puts "   |   |   "
+end
+  
+board = [" "," "," "," "," "," "," "," "," "]
+
+display_board(board)
