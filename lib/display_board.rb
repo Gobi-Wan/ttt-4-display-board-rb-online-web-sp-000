@@ -9,5 +9,5 @@ def display_board(move)
   puts rows[3]
   puts rows[4]
 end
-  
+board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
